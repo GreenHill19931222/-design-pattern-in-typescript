@@ -1,24 +1,23 @@
 //Creational Path
-import abstractFactorySample from "./Creational/Abstract Factory";
-import builderSample from "./Creational/Builder";
-import factotyMethodSample from "./Creational/Factory Method";
-import prototypeSample from "./Creational/Prototype";
+import sampleAbstractFactory from "./Creational/Abstract Factory";
+import sampleBuilder from "./Creational/Builder";
+import sampleFactotyMethod from "./Creational/Factory Method";
+import samplePrototype from "./Creational/Prototype";
+import sampleSimpleFactory from "./Creational/Simple Factory";
 import simpleFactorySample from "./Creational/Simple Factory";
-import singletonSample from "./Creational/Singleton";
+import sampleSingleton from "./Creational/Singleton";
 //Structural
-import adapterSample from "./Structural/Adapter";
-import bridgeSample from "./Structural/Bridge";
+import sampleAdapter from "./Structural/Adapter";
+import sampleBridge from "./Structural/Bridge";
 
 //Creational
-
-//simpleFactorySample();
-//factotyMethodSample();
-// abstractFactorySample();
-//builderSample();
-//prototypeSample();
-//singletonSample();
+//sampleSimpleFactory();
+//sampleFactotyMethod();
+//sampleAbstractFactory();
+// sampleBuilder();
+//samplePrototype();
+//sampleSingleton();
 
 //Structural
-
-//adapterSample();
-//bridgeSample();
+//sampleAdapter();
+//sampleBridge();

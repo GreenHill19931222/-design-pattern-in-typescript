@@ -34,7 +34,7 @@ class MarketingManager extends HiringManager {
     }
 }
 
-export default function factotyMethodSample () {
+export default function sampleFactotyMethod () {
     let devManager = new DevelopmentManager();
     devManager.takeInterview();
 

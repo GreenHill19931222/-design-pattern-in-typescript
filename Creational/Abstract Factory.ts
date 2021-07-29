@@ -58,7 +58,7 @@ class IronDoorFactory implements IDoorFactory {
     
 }
 
-export default function abstractFactorySample() {
+export default function sampleAbstractFactory() {
     let woodenFactory = new WoodenDoorFactory();
     let door = woodenFactory.makeDoor();
     let expert = woodenFactory.makeFittingExpert();

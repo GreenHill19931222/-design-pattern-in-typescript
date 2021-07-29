@@ -32,7 +32,7 @@ class WildDogAdapter implements ILion {
   }
 }
 
-export default function adapterSample () {
+export default function sampleAdapter () {
     const wildDog = new WildDog();
     const wildDogAdapter = new WildDogAdapter(wildDog);
     const hunter =  new Hunter();

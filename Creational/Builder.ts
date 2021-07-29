@@ -50,7 +50,7 @@ class BurgerBuilder {
   }
 }
 
-export default function builderSample() {
+export default function sampleBuilder() {
   let burger = new BurgerBuilder(14)
     .addPepperoni()
     .addLettuce()

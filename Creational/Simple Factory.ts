@@ -27,7 +27,7 @@ class DoorFactory {
   }
 }
 
-export default function simpleFactorySample() {
+export default function sampleSimpleFactory() {
   let door = DoorFactory.makeDoor(100, 200);
   console.log("Width: " + door.getWidth());
   console.log("Height: " + door.getHeight());

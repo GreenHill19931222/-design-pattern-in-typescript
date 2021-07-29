@@ -18,7 +18,7 @@ class Sheep {
   
 }
 
-export default function prototypeSample() {
+export default function samplePrototype() {
   const orginal = new Sheep("Jolly");
   console.log(orginal.getName());
   console.log(orginal.getCategory());

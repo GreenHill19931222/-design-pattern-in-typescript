@@ -11,7 +11,7 @@ class President {
   }
 }
 
-export default function singletonSample() {
+export default function sampleSingleton() {
   const president1 = President.getInstance();
   const president2 = President.getInstance();
 

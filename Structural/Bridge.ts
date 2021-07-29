@@ -45,7 +45,7 @@ class AquaTheme implements ITheme {
   }
 }
 
-export default function bridgeSample() {
+export default function sampleBridge() {
   const darkTheme = new DarkTheme();
   let about = new About(darkTheme);
   let careers = new Careers(darkTheme);
