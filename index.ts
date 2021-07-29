@@ -11,6 +11,7 @@ import sampleAdapter from "./Structural/Adapter";
 import sampleBridge from "./Structural/Bridge";
 import sampleComposite from "./Structural/Composite";
 import sampleDecorator from "./Structural/Decorator";
+import sampleFacade from "./Structural/Facade";
 
 //Creational
 //sampleSimpleFactory();
@@ -24,4 +25,5 @@ import sampleDecorator from "./Structural/Decorator";
 //sampleAdapter();
 //sampleBridge();
 //sampleComposite();
-sampleDecorator();
+//sampleDecorator();
+sampleFacade();
