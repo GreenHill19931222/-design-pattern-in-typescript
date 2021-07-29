@@ -9,6 +9,8 @@ import sampleSingleton from "./Creational/Singleton";
 //Structural
 import sampleAdapter from "./Structural/Adapter";
 import sampleBridge from "./Structural/Bridge";
+import sampleComposite from "./Structural/Composite";
+import sampleDecorator from "./Structural/Decorator";
 
 //Creational
 //sampleSimpleFactory();
@@ -21,3 +23,5 @@ import sampleBridge from "./Structural/Bridge";
 //Structural
 //sampleAdapter();
 //sampleBridge();
+//sampleComposite();
+sampleDecorator();

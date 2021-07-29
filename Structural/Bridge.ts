@@ -1,5 +1,3 @@
-import { runInThisContext } from "vm";
-
 interface IWebPage {
   getContent(): string;
 }
