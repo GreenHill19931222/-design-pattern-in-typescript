@@ -12,6 +12,8 @@ import sampleBridge from "./Structural/Bridge";
 import sampleComposite from "./Structural/Composite";
 import sampleDecorator from "./Structural/Decorator";
 import sampleFacade from "./Structural/Facade";
+import sampleFlyweight from "./Structural/Flyweight";
+import sampleProxy from "./Structural/Proxy";
 
 //Creational
 //sampleSimpleFactory();
@@ -26,4 +28,8 @@ import sampleFacade from "./Structural/Facade";
 //sampleBridge();
 //sampleComposite();
 //sampleDecorator();
-sampleFacade();
+//sampleFacade();
+//sampleFlyweight();
+sampleProxy();
+
+//Behavioral
