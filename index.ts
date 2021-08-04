@@ -1,6 +1,7 @@
 //Creational Path
 import sampleChainOfResponsibility from "./Behavioral/Chain of Responsibility";
 import sampleCommand from "./Behavioral/Command";
+import sampleIterator from "./Behavioral/Iterator";
 import sampleAbstractFactory from "./Creational/Abstract Factory";
 import sampleBuilder from "./Creational/Builder";
 import sampleFactotyMethod from "./Creational/Factory Method";
@@ -36,5 +37,5 @@ import sampleProxy from "./Structural/Proxy";
 
 //Behavioral
 //sampleChainOfResponsibility();
-sampleCommand();
-
+//sampleCommand();
+sampleIterator();
