@@ -38,3 +38,5 @@ export default function sampleIterator() {
   stationList.addStation(new RadioStation(103.2));
   for (let station of stationList) console.log(station.getFrequency());
 }
+
+//https://stackoverflow.com/questions/38508172/typescript-make-class-objects-iterable
